@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465094593261",
+    "project_id": "test-firebase-588b4",
+    "storage_bucket": "test-firebase-588b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465094593261:android:24cba19c2a264b8bbbdae4",
+        "android_client_info": {
+          "package_name": "com.aela.test_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Qb7kM_sIhljSClqlIa76Kb-zDsaZeG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
